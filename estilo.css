@@ -8,3 +8,7 @@ body{
     margin-bottom: 10px;
     border: 1px solid #ccc;
 }
+
+.productos:hover {
+    background-color: #f9f9f9;
+}
