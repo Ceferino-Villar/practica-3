@@ -40,3 +40,7 @@ button:disabled {
     color: white;
     cursor: not-allowed;
 }
+
+input[type="checkbox"]:checked {
+    outline: 2px solid green;
+}
