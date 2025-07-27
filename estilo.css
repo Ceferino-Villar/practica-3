@@ -2,3 +2,9 @@ body{
     font-family: Arial, sans-serif;
     padding: 20px;
 }
+
+.productos{
+    padding: 10px;
+    margin-bottom: 10px;
+    border: 1px solid #ccc;
+}
