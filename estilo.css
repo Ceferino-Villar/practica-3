@@ -29,3 +29,8 @@ body{
 .productos:nth-child(2) {
     font-style: italic;
 }
+
+.productos:not(.destacado):hover {
+    cursor: pointer;
+    background-color: #e6f7ff;
+}
