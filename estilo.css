@@ -17,3 +17,7 @@ body{
     transform: scale(0.95);
     background-color: #ddd;
 }
+
+.productos:first-child {
+    border-left: 5px solid green;
+}
