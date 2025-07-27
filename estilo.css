@@ -25,3 +25,7 @@ body{
 .productos:last-child {
     border-left: 5px solid red;
 }
+
+.productos:nth-child(2) {
+    font-style: italic;
+}
